@@ -1,0 +1,10 @@
+(librepcb_library 2f643203-bb0e-4d2f-ac3b-5eb6e1e6f3a8
+ (name "Acorn Connectors")
+ (description "Connectors")
+ (keywords "")
+ (author "effarig")
+ (version "0.1")
+ (created 2020-06-05T23:34:44Z)
+ (deprecated false)
+ (url "")
+)
