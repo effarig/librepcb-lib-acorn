@@ -1,10 +1,10 @@
 (librepcb_component_category 373bb8bb-c88c-4ee3-b762-9848bb60a1ad
- (name "Edge Connectors")
- (description "Card edge connectors for sockets on products by Acorn Computers.")
+ (name "Card Edges")
+ (description "Board edges for slotting cards into edge connectors.")
  (keywords "board, edge, connector")
  (author "James Peacock")
  (version "0.1")
  (created 2020-06-05T23:42:50Z)
  (deprecated false)
- (parent 7891f51d-8e92-4686-ab46-718ffb7f82db)
+ (parent d0618c29-0436-42da-a388-fdadf7b23892)
 )
