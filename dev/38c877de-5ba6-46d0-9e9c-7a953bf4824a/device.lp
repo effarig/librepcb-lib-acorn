@@ -1,11 +1,12 @@
 (librepcb_device 38c877de-5ba6-46d0-9e9c-7a953bf4824a
  (name "Acorn BBC Master PL12 Pin Header")
- (description "Pin header for the PL12 connector on Acorn\'s BBC master.\n\nOn the Master\'s motherboard, pin 20 (0V) of PL12 is the front-most (nearest the keyboard).\n\nNote on the Master\'s motherboard the PL12 connector may be a plug, a socket or unpopulated.")
+ (description "Pin header for the PL12 connector on Acorn's BBC master.\n\nOn the Master's motherboard, pin 20 (0V) of PL12 is the front-most (nearest the keyboard).\n\nNote on the Master's motherboard the PL12 connector may be a plug, a socket or unpopulated.")
  (keywords "acorn, bbc, master, pl12")
  (author "James Peacock")
  (version "0.1")
  (created 2023-02-27T16:05:18Z)
  (deprecated false)
+ (generated_by "")
  (category 4a4e3c72-94fb-45f9-a6d8-122d2af16fb1)
  (component 8a530575-468a-4393-834e-c4df72932e62)
  (package 7d26f2ee-9b71-49df-b917-6b43bafb5e5b)

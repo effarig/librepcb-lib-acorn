@@ -7,4 +7,5 @@
  (created 2020-06-05T23:34:44Z)
  (deprecated false)
  (url "https://github.com/effarig/librepcb-lib-acorn")
+ (manufacturer "")
 )
